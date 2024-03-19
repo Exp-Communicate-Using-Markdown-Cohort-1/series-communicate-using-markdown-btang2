@@ -8,3 +8,8 @@ This is an example of code:
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+This is an example of a list:
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
